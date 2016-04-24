@@ -58,6 +58,14 @@ analytics:
 google_ad_client         :
 google_ad_slot           :
 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
 
 # Site Author
 author:
