@@ -190,7 +190,7 @@ tags:
 #   enabled:
 #     - categories
 #     - tags
-   layouts: single
+#  layouts: single
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
